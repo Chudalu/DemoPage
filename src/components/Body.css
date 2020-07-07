@@ -1,0 +1,9 @@
+
+.blue {
+    color:rgb(41, 41, 173);
+}
+
+
+.rotated {
+    transform: rotate(60deg);
+}
